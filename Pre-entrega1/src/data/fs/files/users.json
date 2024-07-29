@@ -1,0 +1,30 @@
+[
+    {
+      "id": "ac0deaf7fa80cd1e296956ca",
+      "photo": "photo",
+      "email": "email1",
+      "password": "password1",
+      "role": 0
+    },
+    {
+      "id": "0c75ab43cfcc075f35b97d6a",
+      "photo": "photo",
+      "email": "email2",
+      "password": "password2",
+      "role": 0
+    },
+    {
+      "id": "703045a62ccdc4acc9ebe0f2",
+      "photo": "photo",
+      "email": "email3",
+      "password": "password3",
+      "role": 1
+    },
+    {
+      "id": "b51b30f2ed7bae8e1e98e5e0",
+      "photo": "photo",
+      "email": "email4",
+      "password": "password4",
+      "role": 1
+    }
+  ]

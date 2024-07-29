@@ -1,0 +1,389 @@
+[
+    {
+      "id": "f142eac234e69afbbc69698e",
+      "title": "Bakemonogatari 03",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "manga",
+      "price": 12990,
+      "stock": 10
+    },
+    {
+      "id": "619091784cc9a3717e0fc482",
+      "title": "Vagabond 01",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "manga",
+      "price": 9490,
+      "stock": 11
+    },
+    {
+      "id": "13116f43df9c4ffed57b2b98",
+      "title": "Slam Dunk 15",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "manga",
+      "price": 13990,
+      "stock": 15
+    },
+    {
+      "id": "a2c325eb4f9ad72133d02298",
+      "title": "Bakemonogatari 05",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "manga",
+      "price": 12990,
+      "stock": 5
+    },
+    {
+      "id": "5a24080bc58d943d629a5f0e",
+      "title": "Slam Dunk 07",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "manga",
+      "price": 13990,
+      "stock": 6
+    },
+    {
+      "id": "135b00565c7abde926b3c6f3",
+      "title": "Slam Dunk 04",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "manga",
+      "price": 13990,
+      "stock": 3
+    },
+    {
+      "id": "a6f83128b2a33829050fb214",
+      "title": "Bakemonogatari 01",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "manga",
+      "price": 12990,
+      "stock": 10
+    },
+    {
+      "id": "9e3d382556464f2410d800fc",
+      "title": "Vagabond 09",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "manga",
+      "price": 9490,
+      "stock": 10
+    },
+    {
+      "id": "b29fa68ba2d86b3896ad1858",
+      "title": "Bakemonogatari 06",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "manga",
+      "price": 12990,
+      "stock": 13
+    },
+    {
+      "id": "46113107b3f39ea3e268982d",
+      "title": "Bakemonogatari 04",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "manga",
+      "price": 12990,
+      "stock": 13
+    },
+    {
+      "id": "8fc6b7d3ebe298259836fce1",
+      "title": "Bakemonogatari 14",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "manga",
+      "price": 12990,
+      "stock": 12
+    },
+    {
+      "id": "d06d4c366198a8a30d083bed",
+      "title": "Vagabond 05",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "manga",
+      "price": 9490,
+      "stock": 10
+    },
+    {
+      "id": "2b41dc3e7b4fbc79535bc849",
+      "title": "El Descontrol de Haruhi Suzumiya",
+      "publisher": "Ivrea España",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 12490,
+      "stock": 10
+    },
+    {
+      "id": "a6cbbca92a55c7ed041b00c3",
+      "title": "Goblin Slayer 01",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 17490,
+      "stock": 10
+    },
+    {
+      "id": "51e211c54610d65de6af2a56",
+      "title": "Fireworks",
+      "publisher": "Planeta",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 29990,
+      "stock": 7
+    },
+    {
+      "id": "32610ea6395d6bb6a05edd3d",
+      "title": "Ivrea Argentina",
+      "publisher": "Goblin Slayer 02",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 17490,
+      "stock": 12
+    },
+    {
+      "id": "8a33d99c4088df642e7eb9ac",
+      "title": "Overlord 02: El Guerrero Oscuro",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 23990,
+      "stock": 10
+    },
+    {
+      "id": "857c21f5ce138970196f07bd",
+      "title": "5 centímetros por segundo",
+      "publisher": "Planeta",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 25490,
+      "stock": 5
+    },
+    {
+      "id": "3cd6c67276da2207cf005568",
+      "title": "Overlord 03: La Valquiria Sangrienta",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 23990,
+      "stock": 10
+    },
+    {
+      "id": "a0c64e99938f1bc984b071bf",
+      "title": "El Jardín de las Palabras",
+      "publisher": "Planeta",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 32990,
+      "stock": 10
+    },
+    {
+      "id": "ba64e0ca3852a4c6286a3adf",
+      "title": "El Lugar que nos Prometimos",
+      "publisher": "Planeta",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 32990,
+      "stock": 2
+    },
+    {
+      "id": "92160cac95cbbafd11a496d7",
+      "title": "Goblin Slayer 03",
+      "publisher": "Ivrea Argentina",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 17490,
+      "stock": 4
+    },
+    {
+      "id": "cd96f9ed2f0dad1842c12234",
+      "title": "Overlord 01: El Rey no Muerto",
+      "publisher": "Panini México",
+      "photo": "photo",
+      "category": "novelas",
+      "price": 23990,
+      "stock": 10
+    },
+    {
+      "id": "52fea39437d3965b597f3617",
+      "title": "Dorohedoro 10",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "125d03baa945c84870057840",
+      "title": "Shuumatsu no Valkyrie 20",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "b9d0d491d8b4bf68c493e848",
+      "title": "Delicious in Dungeon 01",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "5c37327e590b61fa3ed25517",
+      "title": "Chainsaw Man 15",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "cab64f108968f96d2a94f02e",
+      "title": "Haikyu!! 10",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "bbe44006edb604aa3ea52a83",
+      "title": "Kaiju #8 10",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "3aaccfdca5c0cad2d11ce639",
+      "title": "Dandadan 10",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "e0883d815a2c5e83f27cbad4",
+      "title": "Hunter x Hunter 29",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "7285f884c29a3f10952c47f3",
+      "title": "Blue lock 19",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "3dd8bdb63701fd9c67f4bff5",
+      "title": "Grand Blue 6",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "a7cc0cf9531fb39ba4ceded2",
+      "title": "Los diarios de la boticaria 01",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "dda5742d81aa55c137bc58cd",
+      "title": "Skip and Loafer 07",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "057cb31fd37b529fc24b901a",
+      "title": "Spy x Family 12",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "ef73514b9be1f4ffb417cc67",
+      "title": "Mieruko-Chan 09",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "a992650d39b4acb6fc0cb296",
+      "title": "Call of the night 09",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "6f0e1130f2264d0c889a5041",
+      "title": "Frieren 09",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "f77162c5ef2ac19d4ae4ddb6",
+      "title": "Sakamoto Days 09",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "18ea46aaf2d1061f73f4ae96",
+      "title": "To your eternity 15",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "04fb998662a869eeb2a595b7",
+      "title": "Kingdom 14",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    },
+    {
+      "id": "eb3eebea094fbf1bb8f396b2",
+      "title": "Nana 09",
+      "publisher": "publisher",
+      "photo": "photo",
+      "category": "manga",
+      "price": 1,
+      "stock": 1
+    }
+  ]
