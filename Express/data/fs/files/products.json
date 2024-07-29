@@ -1,0 +1,162 @@
+[
+    {
+      "id": "cb6a10bef9ff046ee64494de",
+      "title": "Producto 1",
+      "photo": "path/to/photo1.jpg",
+      "category": "Novelas",
+      "price": 100,
+      "stock": 5
+    },
+    {
+      "id": "29d9506a2f482d89e24d17f6",
+      "title": "Producto 2",
+      "photo": "path/to/photo2.jpg",
+      "category": "Novelas",
+      "price": 200,
+      "stock": 10
+    },
+    {
+      "id": "77e524934a335e603e0e32f3",
+      "title": "Producto 3",
+      "photo": "path/to/photo3.jpg",
+      "category": "Novelas",
+      "price": 300,
+      "stock": 15
+    },
+    {
+      "id": "07998a6a83c3433891026b76",
+      "title": "Producto 4",
+      "photo": "path/to/photo4.jpg",
+      "category": "Novelas",
+      "price": 400,
+      "stock": 20
+    },
+    {
+      "id": "2135f9f5292a3a01e9f0767b",
+      "title": "Producto 5",
+      "photo": "path/to/photo5.jpg",
+      "category": "Novelas",
+      "price": 500,
+      "stock": 25
+    },
+    {
+      "id": "ca573ef4f19360e232d6d23d",
+      "title": "Producto 6",
+      "photo": "path/to/photo6.jpg",
+      "category": "Novelas",
+      "price": 600,
+      "stock": 30
+    },
+    {
+      "id": "599cb79c6db48e52d7bad48b",
+      "title": "Producto 7",
+      "photo": "path/to/photo7.jpg",
+      "category": "Novelas",
+      "price": 700,
+      "stock": 35
+    },
+    {
+      "id": "1361704684a678f89802dbcd",
+      "title": "Producto 8",
+      "photo": "path/to/photo8.jpg",
+      "category": "Novelas",
+      "price": 800,
+      "stock": 40
+    },
+    {
+      "id": "9465dd597eaa760dc20d9bf2",
+      "title": "Producto 9",
+      "photo": "path/to/photo9.jpg",
+      "category": "Novelas",
+      "price": 900,
+      "stock": 45
+    },
+    {
+      "id": "accb26913f6ad8d42360513b",
+      "title": "Producto 10",
+      "photo": "path/to/photo10.jpg",
+      "category": "Manga",
+      "price": 1000,
+      "stock": 50
+    },
+    {
+      "id": "93a6166d487ab57ef8a62949",
+      "title": "Producto 11",
+      "photo": "path/to/photo11.jpg",
+      "category": "Manga",
+      "price": 1100,
+      "stock": 55
+    },
+    {
+      "id": "cf1537e85aeeecb7c9eb5f24",
+      "title": "Producto 12",
+      "photo": "path/to/photo12.jpg",
+      "category": "Manga",
+      "price": 1200,
+      "stock": 60
+    },
+    {
+      "id": "a8262c9717c7a563479aef9a",
+      "title": "Producto 13",
+      "photo": "path/to/photo13.jpg",
+      "category": "Manga",
+      "price": 1300,
+      "stock": 65
+    },
+    {
+      "id": "4792c87a41909389279183a2",
+      "title": "Producto 14",
+      "photo": "path/to/photo14.jpg",
+      "category": "Manga",
+      "price": 1400,
+      "stock": 70
+    },
+    {
+      "id": "e348380439493224a372609d",
+      "title": "Producto 15",
+      "photo": "path/to/photo15.jpg",
+      "category": "Manga",
+      "price": 1500,
+      "stock": 75
+    },
+    {
+      "id": "05eb254e6f608a3f9d3ebff8",
+      "title": "Producto 16",
+      "photo": "path/to/photo16.jpg",
+      "category": "Manga",
+      "price": 1600,
+      "stock": 80
+    },
+    {
+      "id": "37309ed2c1a29b22a268f4f5",
+      "title": "Producto 17",
+      "photo": "path/to/photo17.jpg",
+      "category": "Manga",
+      "price": 1700,
+      "stock": 85
+    },
+    {
+      "id": "22b7b6563c881a242ace4f97",
+      "title": "Producto 18",
+      "photo": "path/to/photo18.jpg",
+      "category": "Manga",
+      "price": 1800,
+      "stock": 90
+    },
+    {
+      "id": "97e9430158cf7c8809934250",
+      "title": "Producto 19",
+      "photo": "path/to/photo19.jpg",
+      "category": "Manga",
+      "price": 1900,
+      "stock": 95
+    },
+    {
+      "id": "dd0f8b41f1c46c35c1999b11",
+      "title": "Producto 20",
+      "photo": "path/to/photo20.jpg",
+      "category": "Manga",
+      "price": 2000,
+      "stock": 100
+    }
+  ]

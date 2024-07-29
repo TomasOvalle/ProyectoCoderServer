@@ -1,0 +1,30 @@
+[
+    {
+      "id": "abc1645ac12fc0a534b7f4f2",
+      "photo": "photo1.jpg",
+      "email": "email1@email.com",
+      "password": "password1",
+      "role": "torre"
+    },
+    {
+      "id": "493811f3f238ac269fbf017d",
+      "photo": "photo2.jpg",
+      "email": "email2@email.com",
+      "password": "password2",
+      "role": "torre"
+    },
+    {
+      "id": "cfead0eedbd2872cd098c89f",
+      "photo": "photo3.jpg",
+      "email": "email3@email.com",
+      "password": "password3",
+      "role": "alfil"
+    },
+    {
+      "id": "1cf87cbdab821d57723c59bc",
+      "photo": "photo4.jpg",
+      "email": "email4@email.com",
+      "password": "password4",
+      "role": "peón"
+    }
+  ]
