@@ -1,0 +1,23 @@
+[
+    {
+      "id": "485344378f7138df34052574",
+      "photo": "photo1.jpg",
+      "email": "email1@email.com",
+      "password": "password1",
+      "role": 0
+    },
+    {
+      "id": "3f984c7a6bf22877ff9e3337",
+      "photo": "photo3.jpg",
+      "email": "email3@email.com",
+      "password": "password3",
+      "role": 0
+    },
+    {
+      "id": "08fa52f1b5da36003bc8ff9c",
+      "photo": "photo4.jpg",
+      "email": "email4@email.com",
+      "password": "password4",
+      "role": 0
+    }
+  ]
