@@ -1,0 +1,74 @@
+[
+    {
+      "id": "b21c2bcf742af33dc11adb9a",
+      "title": "Producto 1",
+      "photo": "path/to/photo1.jpg",
+      "category": "Categoria 1",
+      "price": 100,
+      "stock": 5
+    },
+    {
+      "id": "c66c3407363f62c4cd47d3bd",
+      "title": "Producto 3",
+      "photo": "path/to/photo3.jpg",
+      "category": "Categoria 3",
+      "price": 300,
+      "stock": 15
+    },
+    {
+      "id": "aa1ce38af6c1fdb5c592abe1",
+      "title": "Producto 4",
+      "photo": "path/to/photo4.jpg",
+      "category": "Categoria 4",
+      "price": 400,
+      "stock": 20
+    },
+    {
+      "id": "1a64357c6ca2604c09e174fb",
+      "title": "Producto 5",
+      "photo": "path/to/photo5.jpg",
+      "category": "Categoria 5",
+      "price": 500,
+      "stock": 25
+    },
+    {
+      "id": "62c586d5206d956b809176f5",
+      "title": "Producto 6",
+      "photo": "path/to/photo6.jpg",
+      "category": "Categoria 6",
+      "price": 600,
+      "stock": 30
+    },
+    {
+      "id": "c3e326fe0c1e3c09b8b81d5f",
+      "title": "Producto 7",
+      "photo": "path/to/photo7.jpg",
+      "category": "Categoria 7",
+      "price": 700,
+      "stock": 35
+    },
+    {
+      "id": "001de14afcd6d5629c702409",
+      "title": "Producto 8",
+      "photo": "path/to/photo8.jpg",
+      "category": "Categoria 8",
+      "price": 800,
+      "stock": 40
+    },
+    {
+      "id": "6512e963ec9516520aa21649",
+      "title": "Producto 9",
+      "photo": "path/to/photo9.jpg",
+      "category": "Categoria 9",
+      "price": 900,
+      "stock": 45
+    },
+    {
+      "id": "4c807b4ad73581288eaefd3e",
+      "title": "Producto 10",
+      "photo": "path/to/photo10.jpg",
+      "category": "Categoria 10",
+      "price": 1000,
+      "stock": 50
+    }
+  ]
